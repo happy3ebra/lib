@@ -1,0 +1,44 @@
+{
+  "name": "@ngx-formly/bootstrap",
+  "version": "5.12.5",
+  "license": "MIT",
+  "homepage": "https://github.com/ngx-formly/ngx-formly#readme",
+  "description": "ngx-formly is an Angular 2 module which has a Components to help customize and render JavaScript/JSON configured forms. The formly-form Component and the FormlyConfig service are very powerful and bring unmatched maintainability to your application's forms.",
+  "keywords": [
+    "angular",
+    "forms",
+    "ngx-formly",
+    "ngx-formly",
+    "ngx-formly",
+    "formly",
+    "angular 2",
+    "angular 2 forms",
+    "json forms",
+    "form library",
+    "dynamic-forms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-formly/ngx-formly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngx-formly/ngx-formly/issues"
+  },
+  "peerDependencies": {
+    "@ngx-formly/core": "5.12.5",
+    "bootstrap": "^4.0.0"
+  },
+  "main": "bundles/ngx-formly-bootstrap.umd.js",
+  "module": "fesm5/ngx-formly-bootstrap.js",
+  "es2015": "fesm2015/ngx-formly-bootstrap.js",
+  "esm5": "esm5/ngx-formly-bootstrap.js",
+  "esm2015": "esm2015/ngx-formly-bootstrap.js",
+  "fesm5": "fesm5/ngx-formly-bootstrap.js",
+  "fesm2015": "fesm2015/ngx-formly-bootstrap.js",
+  "typings": "ngx-formly-bootstrap.d.ts",
+  "metadata": "ngx-formly-bootstrap.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

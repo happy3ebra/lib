@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/ngx-formly-bootstrap-addons.umd.js",
+  "module": "../fesm5/ngx-formly-bootstrap-addons.js",
+  "es2015": "../fesm2015/ngx-formly-bootstrap-addons.js",
+  "esm5": "../esm5/addons/ngx-formly-bootstrap-addons.js",
+  "esm2015": "../esm2015/addons/ngx-formly-bootstrap-addons.js",
+  "fesm5": "../fesm5/ngx-formly-bootstrap-addons.js",
+  "fesm2015": "../fesm2015/ngx-formly-bootstrap-addons.js",
+  "typings": "ngx-formly-bootstrap-addons.d.ts",
+  "metadata": "ngx-formly-bootstrap-addons.metadata.json",
+  "sideEffects": false,
+  "name": "@ngx-formly/bootstrap/addons"
+}

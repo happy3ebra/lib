@@ -1,0 +1,114 @@
+{
+  "name": "@angular/cdk-experimental",
+  "version": "13.3.9",
+  "description": "Experimental components for Angular CDK",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/components.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/components/issues"
+  },
+  "homepage": "https://github.com/angular/components#readme",
+  "peerDependencies": {
+    "@angular/cdk": "13.3.9",
+    "@angular/core": "^13.0.0 || ^14.0.0-0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "fesm2020": "./fesm2020/cdk-experimental.mjs",
+  "fesm2015": "./fesm2015/cdk-experimental.mjs",
+  "esm2020": "./esm2020/index.mjs",
+  "typings": "./index.d.ts",
+  "module": "./fesm2015/cdk-experimental.mjs",
+  "es2020": "./fesm2020/cdk-experimental.mjs",
+  "type": "module",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/index.mjs",
+      "es2020": "./fesm2020/cdk-experimental.mjs",
+      "es2015": "./fesm2015/cdk-experimental.mjs",
+      "node": "./fesm2015/cdk-experimental.mjs",
+      "default": "./fesm2020/cdk-experimental.mjs"
+    },
+    "./column-resize": {
+      "types": "./column-resize/column-resize_public_index.d.ts",
+      "esm2020": "./esm2020/column-resize/column-resize_public_index.mjs",
+      "es2020": "./fesm2020/column-resize.mjs",
+      "es2015": "./fesm2015/column-resize.mjs",
+      "node": "./fesm2015/column-resize.mjs",
+      "default": "./fesm2020/column-resize.mjs"
+    },
+    "./combobox": {
+      "types": "./combobox/combobox_public_index.d.ts",
+      "esm2020": "./esm2020/combobox/combobox_public_index.mjs",
+      "es2020": "./fesm2020/combobox.mjs",
+      "es2015": "./fesm2015/combobox.mjs",
+      "node": "./fesm2015/combobox.mjs",
+      "default": "./fesm2020/combobox.mjs"
+    },
+    "./dialog": {
+      "types": "./dialog/dialog_public_index.d.ts",
+      "esm2020": "./esm2020/dialog/dialog_public_index.mjs",
+      "es2020": "./fesm2020/dialog.mjs",
+      "es2015": "./fesm2015/dialog.mjs",
+      "node": "./fesm2015/dialog.mjs",
+      "default": "./fesm2020/dialog.mjs"
+    },
+    "./listbox": {
+      "types": "./listbox/listbox_public_index.d.ts",
+      "esm2020": "./esm2020/listbox/listbox_public_index.mjs",
+      "es2020": "./fesm2020/listbox.mjs",
+      "es2015": "./fesm2015/listbox.mjs",
+      "node": "./fesm2015/listbox.mjs",
+      "default": "./fesm2020/listbox.mjs"
+    },
+    "./menu": {
+      "types": "./menu/menu_public_index.d.ts",
+      "esm2020": "./esm2020/menu/menu_public_index.mjs",
+      "es2020": "./fesm2020/menu.mjs",
+      "es2015": "./fesm2015/menu.mjs",
+      "node": "./fesm2015/menu.mjs",
+      "default": "./fesm2020/menu.mjs"
+    },
+    "./popover-edit": {
+      "types": "./popover-edit/popover-edit_public_index.d.ts",
+      "esm2020": "./esm2020/popover-edit/popover-edit_public_index.mjs",
+      "es2020": "./fesm2020/popover-edit.mjs",
+      "es2015": "./fesm2015/popover-edit.mjs",
+      "node": "./fesm2015/popover-edit.mjs",
+      "default": "./fesm2020/popover-edit.mjs"
+    },
+    "./scrolling": {
+      "types": "./scrolling/scrolling_public_index.d.ts",
+      "esm2020": "./esm2020/scrolling/scrolling_public_index.mjs",
+      "es2020": "./fesm2020/scrolling.mjs",
+      "es2015": "./fesm2015/scrolling.mjs",
+      "node": "./fesm2015/scrolling.mjs",
+      "default": "./fesm2020/scrolling.mjs"
+    },
+    "./selection": {
+      "types": "./selection/selection_public_index.d.ts",
+      "esm2020": "./esm2020/selection/selection_public_index.mjs",
+      "es2020": "./fesm2020/selection.mjs",
+      "es2015": "./fesm2015/selection.mjs",
+      "node": "./fesm2015/selection.mjs",
+      "default": "./fesm2020/selection.mjs"
+    },
+    "./table-scroll-container": {
+      "types": "./table-scroll-container/table-scroll-container_public_index.d.ts",
+      "esm2020": "./esm2020/table-scroll-container/table-scroll-container_public_index.mjs",
+      "es2020": "./fesm2020/table-scroll-container.mjs",
+      "es2015": "./fesm2015/table-scroll-container.mjs",
+      "node": "./fesm2015/table-scroll-container.mjs",
+      "default": "./fesm2020/table-scroll-container.mjs"
+    }
+  }
+}
