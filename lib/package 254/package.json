@@ -43,7 +43,7 @@
     "awesome"
   ],
   "dependencies": {
-    "glob": "~7.1.1",
+    "glob": "~9.0.0",
     "lodash": "^4.17.21",
     "minimatch": "~3.0.2"
   }
