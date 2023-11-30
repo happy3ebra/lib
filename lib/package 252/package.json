@@ -52,7 +52,7 @@
 		"is-path-cwd": "^2.2.0",
 		"is-path-inside": "^3.0.2",
 		"p-map": "^4.0.0",
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.0.0",
 		"slash": "^3.0.0"
 	},
 	"devDependencies": {
