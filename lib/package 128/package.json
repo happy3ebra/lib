@@ -57,7 +57,7 @@
     "eventsource": "^1.0.7",
     "fetch-cookie": "^0.7.3",
     "node-fetch": "^2.6.7",
-    "ws": "^6.0.0"
+    "ws": "^8.17.1"
   },
   "resolutions": {
     "url-parse": ">=1.5.8"
